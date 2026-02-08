@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ansh Shinde
 #### I am a techie but currently mern developer
-![I am a techie but currently mern developer](https://media.licdn.com/dms/image/v2/D4D16AQFl5lXSQCPuTg/profile-displaybackgroundimage-shrink_350_1400/B4DZaV6Qy2GwAg-/0/1746271802008?e=1762992000&v=beta&t=ePuq_XP2u-tPDKGH44ufP1y3RNEyN5db_LcvoNmdsgA)
 
 An engineering student passionate about technology and the impact it can create. I love diving into coding, exploring algorithms, and building projects that solve real problems. Hackathons are my favorite way to challenge myself and learn from others. I’m always curious and excited to grow, whether it’s improving my technical skills or discovering new perspectives. Beyond academics, I enjoy connecting with people who share a vision for innovation and creativity. Let’s collaborate and turn ideas into something meaningful!
 

@@ -39,11 +39,3 @@
     />
   </a>
 </p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=AnshShinde2007&theme=tokyonight-duo"
-      alt="Ansh's GitHub streak"
-    />
-  </a>
-</p>

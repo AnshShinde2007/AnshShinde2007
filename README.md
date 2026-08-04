@@ -31,5 +31,11 @@
 </p>
 
 <p align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshShinde2007&bg_color=0d1117&color=58A6FF&line=286ed7&point=58A6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      width="90%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=AnshShinde2007&bg_color=0d1117&color=58A6FF&line=286ed7&point=58A6FF&area=true&hide_border=true"
+      alt="Ansh's GitHub activity graph"
+    />
+  </a>
 </p>

@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="222" viewBox="0 0 1120 222" role="img" aria-label="Ansh Shinde / full stack developer and AI engineer — building backend systems, AI products, and developer tools.">
-  <rect width="1120" height="222" fill="#0d1117"/>
+  <defs><pattern id="stars" width="241" height="151" patternUnits="userSpaceOnUse"><circle cx="17" cy="24" r=".7" fill="#c9e6ff" opacity=".32"/><circle cx="71" cy="109" r=".5" fill="#8ec5ff" opacity=".25"/><circle cx="124" cy="41" r="1" fill="#e6f2ff" opacity=".38"/><circle cx="183" cy="83" r=".6" fill="#b7d8ff" opacity=".3"/><circle cx="226" cy="17" r=".45" fill="#e6f2ff" opacity=".25"/><circle cx="207" cy="132" r=".8" fill="#8ec5ff" opacity=".24"/><circle cx="38" cy="143" r=".4" fill="#e6f2ff" opacity=".22"/></pattern></defs>
+  <rect width="1120" height="222" fill="#0d1117"/><rect width="1120" height="222" fill="url(#stars)"/>
   <text x="50" y="26" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#7d8590">ANSH SHINDE / FULL STACK DEVELOPER &amp; AI ENGINEER</text>
   <line x1="48" y1="44" x2="1072" y2="44" stroke="#21262d" stroke-width="1"/>
   <text x="48" y="122" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="47" font-style="italic" font-weight="700" fill="#f0f6fc">building backend systems, AI products,</text>

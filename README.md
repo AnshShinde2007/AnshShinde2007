@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/AnshShinde2007"><img src="./link-github.svg" width="31.5%" alt="GitHub — AnshShinde2007" /></a>&nbsp;
-  <img src="./link-discord.svg" width="31.5%" alt="Discord — vicious_2007" />&nbsp;
+  <a href="https://discord.com/users/711907367092092958"><img src="./link-discord.svg" width="31.5%" alt="Discord — vicious_2007" />&nbsp;
   <a href="mailto:anshshinde449@gmail.com"><img src="./link-gmail.svg" width="31.5%" alt="Email — anshshinde449@gmail.com" /></a>
 </p>
 
